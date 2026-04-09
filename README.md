@@ -8,13 +8,28 @@
 This is a simple javascript app that will produce a webpage running slideshows with mixed content (videos and images).  Just drop this onto your webserver and it will work.  The **json/** folder is a **JSON Slide Generator** that will create the json file for your slide automatically. **slides/** contains a demo slide of each layout type.
 <br><br>
 <div>
-<a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/">VIDEOWALL DEMO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press <b>F11</b> for <i>full-screen mode</i> to see the slides as they would appear on a dedicated display.
+<a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/">Example Slideshows</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Press F11 for <i>full-screen mode</i> to see the slides as they would appear on a dedicated display.</b>
+<p></p>
+<p>The example slideshows are configured for a 2x2 videowall: this is what we have in the first floor gallery of the UNT College of Visual Arts and Design building.</p>
+<p>The example slideshows do not use videos because it is being hosted directly on the Github repository: there is just not enough computing power using this method to display videos without an enormous lag.  For the <b>Spring 2026 Design Students Show</b>, the slideshows will be run on an actual server and the videos will run without any issues.</p>
+<p>An example using each of the available layouts is included in the example slideshows: single image spanned across all displays, one image per screen, layouts with rows and columns (spans two screens), and two sixtern grid layouts that has four images shown on each display (standard and padded).</p>   
 </div>
 <br>
 <div>
 <a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/json">JSON SLIDE GENERATOR</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p></p>
+<p>Use this tool to create your slideshows: there are instructions for each step and when you are done - just click <b>Generate JSON</b> and then <b>Download JSON</b>. If you make changes to your slideshow - you will need to click <b>Generate JSON</b> to apply those changes before downloading the JSON file.</p>
 </div>    
-<br>
+
+## Spring 2026 Design Students Show
+Each student should create their own slideshow: they will be added to the playlist lindex and play one after the other.
+
+If you include a video with audio - the audio output on the videowall is capped with a max volume of 40%.
+
+## Help?
+You can contact me by email to schedule an appointment: michael.baggett@unt.edu.  Don't wait until the week before the show as we will be busy setting up for the show.  Please include other students in your appointment as I won't be able to meet with each student individually.  In the past we have had sessions with as many as eight people and it has gone very smoothly. It is fine to schedule follow ups if you need to. I want your show to be succesfull! Thanks. I am very much looking forward to your show this spring!
+
+This app was created specifically with the Annual Spring Design Students Show in mind. Any feedback you provide will applied in future updates.  This app is free for you to use anywhere: it is hosted on Github so you can **fork** the repo to your own account and it will notify you when there are updates. You can choose whether or not to **merge** those changes.  You can make changes as well and submit a **pull request** to have them included in the main branch for the benefit of others.  Github is free to use: you can purchase a **Pro** account for addtional features but that isn't neccesary in most cases. 
 
 ![Alt](https://repobeats.axiom.co/api/embed/d7708d0c0ad5bf26646cd118c3f65ed92176c29f.svg "Repobeats analytics image")
 
