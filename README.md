@@ -12,7 +12,7 @@ This is a simple javascript app that will produce a webpage running slideshows w
 <p></p>
 <p>The example slideshows are configured for a 2x2 videowall: this is what we have in the first floor gallery of the UNT College of Visual Arts and Design building.</p>
 <p>The example slideshows do not use videos because it is being hosted directly on the Github repository: there is just not enough computing power using this method to display videos without an enormous lag.  For the <b>Spring 2026 Design Students Show</b>, the slideshows will be run on an actual server and the videos will run without any issues.</p>
-<p>An example using each of the available layouts is included in the example slideshows: single image spanned across all displays, one image per screen, layouts with rows and columns (spans two screens), and two sixtern grid layouts that has four images shown on each display (standard and padded).</p>   
+<p>An example using each of the available layouts is included in the example slideshows: single image spanned across all displays, one image per screen, layouts with rows and columns (spans two screens), and two sixteen grid layouts that has four images shown on each display (standard and padded).</p>   
 </div>
 <br>
 <div>
