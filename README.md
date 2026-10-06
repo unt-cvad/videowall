@@ -6,18 +6,23 @@
 </table>
 
 This is a simple javascript app that will produce a webpage running slideshows with mixed content (videos and images).  Just drop this onto your webserver and it will work.  The **json/** folder is a **JSON Slide Generator** that will create the json file for your slide automatically. **slides/** contains a demo slide of each layout type.
-<br><br>
+<br>
+<br>
 <div>
-<a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/">VIDEOWALL DEMO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press <b>F11</b> for <i>full-screen mode</i> to see the slides as they would appear on a dedicated display.
+<a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/">Example Slideshow</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press <b>F11</b> for <i>full-screen mode</i> to see the slides as they would appear on a dedicated display.
 </div>
+<br>  
+The example slideshows do not use videos because it is being hosted directly on the Github repository: there is just not enough computing power using this method to display videos without an enormous lag. For the <b>Spring Design Students Show</b>, the slideshows will be run on an actual server and the videos will run without any issues.
+<br>
 <br>
 <div>
 <a style="border: 1px solid cyan; border-radius: 4px; padding: .5rem 1rem; width: fit-content" href="https://unt-cvad.github.io/videowall/json">JSON SLIDE GENERATOR</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>    
 <br>
+Use this tool to create your slideshows: there are instructions for each step and when you are done - just click Generate JSON and then Download JSON. If you make changes to your slideshow - you will need to click Generate JSON to apply those changes before downloading the JSON file.
 
 ## Spring Design Students Show
-There are several ways the content can be displayed: Talk with your instructor before you begin preparing for the Design Students Show.  
+There are several ways the content can be displayed: Talk with your instructor before you begin preparing for the Show.  
 
 If you include a video with audio - the audio output on the videowall is capped with a max volume of 35%.
 
